@@ -3,7 +3,7 @@ import "./style.css";
 const Footer = () => {
   return (
     <footer>
-      <a
+      {/* <a
         href="https://web.facebook.com/nelson/nnacheta"
          target="_blank"
       >
@@ -33,7 +33,8 @@ const Footer = () => {
           src="https://github.com/DwinaTech/public-images/blob/main/twitter-icon.png?raw=true"
           alt="Twitter-icon"
         />
-      </a>
+      </a> */}
+      <div> Created by Ekwom Nelson</div>
     </footer>
   );
 };
