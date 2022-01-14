@@ -24,7 +24,7 @@ const Home = () => {
       <div className="person">
         <img 
           src={`${process.env.PUBLIC_URL}/mo-logo1.jpg`}
-          alt="person picture"
+          alt=""
         />
       </div>
     </div>
