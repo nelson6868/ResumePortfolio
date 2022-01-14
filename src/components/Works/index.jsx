@@ -4,37 +4,62 @@ const About = () => {
   return (
     <div className="works">
       <h1>Experiences</h1>
-      <p>Company: BBC</p>
+      <p>Company: Sidmach Technology</p>
       <p>Role: Software engineer</p>
-      <p>Date: 2020 - on going</p>
+      <p>Job position:Intern</p>
+      <p>Date: 2020 - 2021</p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-        veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-        commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-        velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint
-        occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-        mollit anim id est laborum.
+        <h3>Responsibilities</h3>
+       •	Researching, designing, implementing, and managing software programs
+       •	Identifying areas for modification in existing programs and subsequently developing these modifications
+       •	Writing and implementing efficient code
+       •	Deploying software tools, processes, and metrics
+       •	Maintaining and upgrading existing systems
+       •	Working closely with other developers, backend designers, business and systems analysts
+
       </p>
       <br />
-      <p>Company: STV</p>
-      <p>Role: Front-end</p>
-      <p>Date: 2018 - 2020</p>
+      <p>Company:Great Impact Academy  </p>
+      <p>Role:Graphic Designer</p>
+      <p>Date: (2018 - 2019) </p>
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-        accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab
-        illo inventore veritatis et quasi architecto beatae vitae dicta sunt
-        explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut
-        odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum
-        quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam
-        eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-        voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam
-        corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?
-        Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse
-        quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-        voluptas nulla pariatur?
+                                                                                                                                                                                                                                                                                   
+
+<h3>Responsibilities</h3>
+•	Study design briefs and determine requirements
+•	Schedule projects and define budget constraints
+•	Conceptualize visuals based on requirements
+•	Prepare rough drafts and present ideas
+•	Develop illustrations, logos and other designs using software or by hand
+•	Use the appropriate colors and layouts for each graphic
+•	Work with copywriters and creative director to produce final design
+•	Test graphics across various media
+•	Amend designs after feedback
+•	Ensure final graphics and layouts are visually appealing and on-brand
+
+
+
       </p>
+      <br />
+      <p>Company:Digital Dreams Limited</p>
+      <p>Role:Trainee Web developer</p>
+      <p>Date: (2017 - 2018)  </p>
+     <p>
+                                                                                      
+                                                                                                                                                                                                                                                                                                                                          
+<h3>Responsibilities</h3>
+•	Writing efficient code
+•	Creating websites/a website using standard HTML, CSS, React, Agile Plus, Microsoft team practices
+•	Working closely with web designers and programmers to produce the website
+•	Constant communication with other colleagues in the business to develop and deploy their content – and ensuring there is a clear establishment of what can be created within what timeframe
+•	Researching different software programs, maintaining software documentation
+•	Implementing contingency plans in case the website goes down
+•	Maintaining and expanding/enhancing the website once built
+•	Managing a team might also be part of the job role
+
+
+     </p>
+             
     </div>
   );
 };

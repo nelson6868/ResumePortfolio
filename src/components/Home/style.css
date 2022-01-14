@@ -31,11 +31,12 @@
 
 .home .person {
   width: 100%;
-  margin-top: 20px;
+  margin-top:-30px;
 }
 
 .home .person img {
   width: 80%;
+
 }
 
 @media (min-width: 600px) {

@@ -9,7 +9,7 @@ const About = () => {
           <strong>Languages:</strong>
           <li>CSS3</li>
           <li>HTML5</li>
-          <li>Node.js</li>
+          <li>Sql</li>
           <li>JavaScript</li>
         </div>
         <div>
